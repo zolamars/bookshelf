@@ -1,4 +1,5 @@
 // 🐨 you'll need to import react and createRoot from react-dom up here
+import React from "react";
 
 // 🐨 you'll also need to import the Logo component from './components/logo'
 
